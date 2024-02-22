@@ -1,10 +1,9 @@
 .nav-container{
     display: flex;
     flex-direction: row;
-    height: 90px;
     align-items: center;
     background: #000232;
-    margin: 0;
+    padding:10px 150px 10px 150px;
     justify-content: space-between;
 }
 
@@ -14,20 +13,14 @@
     padding: 3.03px, 1.89px, 3.04px, 1.9px;
 }
 
-.nav-left{
-    margin-left: 228px;
-    margin-top: 10px;
-}
+
 
 .home-page-link{
+    
+    text-decoration: none;
     font-size: 27px;
     color: #FFFFFF;
     font-weight: 800;
 }
 
-.nav-right{
-    width: 55px;
-    height: 27px;
-    margin-right: 295px;
-    margin-top: 31px;
-}
+

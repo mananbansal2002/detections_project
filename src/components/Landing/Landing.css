@@ -3,12 +3,17 @@
     flex-direction: column;
     align-items: center;
     margin: 0;
+    background-color: white;
+    width:100%;
+    padding:125px;
 }
 
 .login-field{
-    width: 572px;
+    background-color: white;
+    box-shadow: 0px 4px 40px 0px #00000040;
+    /* width: 572px; */
     height: 395px;
-    margin-left: 667px;
-    margin-top: 382px;
+    /* margin-left: 667px; */
+    /* margin-top: 382px; */
 }
 
